@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alibaba",
+    "desc": "บริษัทโฮลดิ้งข้ามชาติ สัญชาติจีน มีความเชี่ยวชาญด้านการค้าปลีก อีคอมเมิร์ซ อินเทอร์เน็ต และเทคโนโลยี",
+    "img": "img/ali.png",
+    "url": "https://www.tradingview.com/symbols/NYSE-BABA/forecast/"
+  },
+  {
+    "name": "eBay",
+    "desc": "เป็นสถานที่ซื้อขายที่ใหญ่ที่สุดในโลก เป็นผู้นำด้านโกลบัลคอมเมิร์ซ",
+    "img": "img/ebay.png",
+    "url": "https://www.tradingview.com/symbols/NASDAQ-EBAY/forecast/"
+  },
+  {
+    "name": "JD.com",
+    "desc": "จิงตง คือ แพลตฟอร์มอีคอมเมิร์ซรายใหญ่ของจีน",
+    "img": "img/jd.png",
+    "url": "https://www.tradingview.com/symbols/NASDAQ-JD/forecast/"
+  },
+  {
+    "name": "Chewy",
+    "desc": "บริษัทออนไลน์ที่ขายอาหารและผลิตภัณฑ์สัตว์เลี้ยง",
+    "img": "img/che.png",
+    "url": "https://www.tradingview.com/symbols/NYSE-CHWY/forecast/"
+  }
+]
